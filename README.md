@@ -1,2 +1,7 @@
-# ender-3-pro-install
-Documenting a failed attempt with new original components
+# Ender- 3 Pro Install
+
+
+Documenting a failed attempt. Printer and original components fresh from Amazon.
+
+
+
