@@ -49,16 +49,16 @@ Removed, the CR Touch will handle it
 ## Formware
 ### Download
 From [Official downlads](https://www.creality.com/pages/download-ender-3-pro?spm=..page_1934481.products_display_1.1)
-![download](img/01 - download firmware.png)
+![download](img/download-firmware.png)
 
 ### Unpack
-![dunpack](img/02 - unextract.png)
+![dunpack](img/unextract.png)
 
 ### Format SD Card
-![format](img/03 - format SDCARD.png)
+![format](img/format.png)
 
 ### Copy firmware file to SD Card
-![copy](img/copyint to sdcard.png)
+![copy](img/copy.png)
 
 ### Rename file
 ![rename](img/rename.png)
