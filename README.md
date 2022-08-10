@@ -70,5 +70,5 @@ From [Official downlads](https://www.creality.com/pages/download-ender-3-pro?spm
  - Creality 3D Pad
 
  # Result
-![result](img/IMG_20220810_010929_799.png)
+![result](img/IMG_20220810_010929_799.jpg)
 
