@@ -49,7 +49,7 @@ Removed, the CR Touch will handle it
 ## Formware
 ### Download
 From [Official downlads](https://www.creality.com/pages/download-ender-3-pro?spm=..page_1934481.products_display_1.1)
-![download](img/01 - download firmwareIMG_20220810_004712_480.png)
+![download](img/01 - download firmware.png)
 
 ### Unpack
 ![dunpack](img/02 - unextract.png)
