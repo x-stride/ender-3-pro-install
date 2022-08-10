@@ -32,7 +32,7 @@ Removed, the CR Touch will handle it
 ![E motor connected](img/IMG_20220810_004352_253.jpg)
 
 ### CR Touch connected
-![crtouch](img/IMG_20220810_004422_329.jpgg)
+![crtouch](img/IMG_20220810_004422_329.jpg)
 
 ### Hotend sensor connected
 ![crtouch](img/IMG_20220810_004600_255.jpg)
